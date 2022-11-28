@@ -4,6 +4,7 @@ Create a .env file in the root directory
 and provide it with the mongoDB URI
 
 (In .env file)
+
 MONGO_URI=<MONGODB_CONNECTION_STRING>
 
 ### Npm install
